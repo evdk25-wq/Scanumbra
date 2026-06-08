@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Umbra - By JLVDK95
+# Scanumbra - By JLVDK95
 
 readonly REQUIRED_COMMANDS=("exiftool" "steghide" "magick" "openssl")
 
